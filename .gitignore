@@ -9,8 +9,8 @@
 timings.txt
 chromedriver
 *.ipynb
-*.csv
-*.xlsx
+# *.csv
+# *.xlsx
 !case_output_template.xlsx
 *.db
 # Blanket ignore docx. Can be more specific when we know which ones to keep in git (template for example)
